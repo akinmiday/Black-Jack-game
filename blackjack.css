@@ -1,0 +1,30 @@
+h1{
+    color: goldenrod;
+}
+
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url("background.webp");
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+#message-el{
+    font-style: italic;
+
+}
+
+button{
+    background-color: goldenrod;
+    color: #016f32;
+    width: 150px;
+    font-weight: bold;
+    padding: 4px;
+    border-radius: 5px;
+    border: none;
+    
+}
